@@ -52,7 +52,7 @@ if(y>height) {
 }
 
 if(y<-10) {
- y=800
+ y=600
 }
 
 if( x1>width) {
@@ -69,7 +69,7 @@ if(y1>height) {
 }
 
 if(y1<-10) {
- y1=800
+ y1=600
 }
 
 if (direccion==2) {
