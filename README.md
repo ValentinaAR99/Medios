@@ -8,4 +8,4 @@
 7. [Reloj](https://valentinaar99.github.io/Medios-Interactivos/06/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/06/sketch_06.js)
 8. [Sonido](https://valentinaar99.github.io/Medios-Interactivos/07/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/07/sketch.js)
 9. [Especies](https://valentinaar99.github.io/Medios-Interactivos/08/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/08/sketch.js)
-10. [Ecosistema](https://valentinaar99.github.io/Medios-Interactivos/eco2/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/Ecosistema/Ecosistema.js)
+10. [Ecosistema](https://valentinaar99.github.io/Medios-Interactivos/eco2/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/eco2/Ecosistema.js)
