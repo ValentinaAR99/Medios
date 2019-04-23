@@ -10,4 +10,4 @@
 9. [Especies](https://valentinaar99.github.io/Medios-Interactivos/08/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/08/sketch.js)
 10. [Ecosistema](https://valentinaar99.github.io/Medios-Interactivos/eco2/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/eco2/Ecosistema.js)
 11. [Base de Datos](https://valentinaar99.github.io/Medios-Interactivos/basededatos/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/basededatos/sketch.js)
-12. [Viualizacion Archivo Colombia](https://valentinaar99.github.io/Medios-Interactivos/poblacion/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/basededatos/sketch.js)
+12. [Viualizacion Archivo Colombia](https://valentinaar99.github.io/Medios-Interactivos/poblacion/): [Código](https://github.com/ValentinaAR99/Medios-Interactivos/blob/master/poblacion/sketch.js)
